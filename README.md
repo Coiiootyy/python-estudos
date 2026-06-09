@@ -1,16 +1,7 @@
-# Python Estudos
-
-Repositório criado para armazenar exercícios e projetos desenvolvidos durante meus estudos de programação em Python.
-
 ## Projetos
 
-- Calculadora básica
-- Gerador de senhas
+### Calculadora
+Realiza operações matemáticas básicas.
 
-## Tecnologias
-
-- Python 3
-
-## Autor
-
-Paulo Pitura
+### Gerador de Senhas
+Gera senhas aleatórias utilizando letras, números e caracteres especiais.
