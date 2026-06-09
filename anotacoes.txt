@@ -1,1 +1,8 @@
-Meu primeiro projeto usando Git 
+Comandos Git aprendidos:
+
+git status -> verifica alterações
+git add . -> adiciona arquivos para commit
+git commit -m "mensagem" -> cria um commit
+git push -> envia para o GitHub
+git pull -> atualiza o repositório local
+git clone -> baixa um repositório
